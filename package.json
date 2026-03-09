@@ -1,0 +1,14 @@
+{
+    "name": "wmb-backend",
+    "version": "1.0.0",
+    "description": "Wise Medical Billing - Python/Django Backend",
+    "main": "manage.py",
+    "scripts": {
+        "dev": "venv\\Scripts\\python manage.py runserver",
+        "migrate": "venv\\Scripts\\python manage.py migrate",
+        "makemigrations": "venv\\Scripts\\python manage.py makemigrations",
+        "shell": "venv\\Scripts\\python manage.py shell"
+    },
+    "author": "Wise Medical Billing Team",
+    "license": "ISC"
+}
